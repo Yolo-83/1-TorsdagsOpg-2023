@@ -9,3 +9,5 @@ for (int i = 0; i <= input; i++){
       println (i);
     }
 }
+
+//  Her opg. 7.b virker med alle positiv værdier. Men ikke med de negativ
