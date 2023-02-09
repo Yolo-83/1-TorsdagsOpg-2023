@@ -27,7 +27,7 @@ void methodOne()
 */
 void methodTwo() 
 {
-  int weekDay = 0; // 0 = Monday, 6 = Sunday. 
+  int weekDay = int (random); // 0 = Monday, 6 = Sunday. 
   boolean weekend = false;
   
   if (weekDay < 5)
@@ -40,9 +40,11 @@ void methodTwo()
   }
   
   // Print the name of the weekday here: 
-  println ();
+  String [] days = {"Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saterday", "Sunday"};
+  println (days);
     
     
   // Print if it is weekend here:
+  int ("weekend: " + weekend);
   
 }
