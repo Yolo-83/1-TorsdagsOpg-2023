@@ -7,7 +7,7 @@ int y = 11;
 int z = 5;
 
 
-if (a + b == 10){
+if (a + b == 10 || a == 10 || b == 10){
 println ("Success");
 } else {
   println ("Fealure");
@@ -21,8 +21,8 @@ println ("Success");
 }
 
 
-if (x + y - z == 30 && (x!=10 && y!=10 && z!=10) && (x!=20 && y!=20 && z!=20) && (x!=30 && y!=30 && z!=30)){ 
-println ("Success");
+if (x + y - z == 30 && (x!=10 && y!=10 && z!=10) && (x!=20 && y!=20 && z!=20) && (x!=30 && y!=30 && z!=30)){
+  println ("Success");
 } else {
   println ("Fealure");
 }
