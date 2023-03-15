@@ -1,2 +1,5 @@
 # 1-TorsdagsOpg-2023
+
+
+ 1093693a8a722632d1997c17dfded2520f8e0475
  Uge 2 - VARIABLES and CONTROL STRUCTURES i Processing
