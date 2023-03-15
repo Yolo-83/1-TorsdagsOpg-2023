@@ -1,3 +1,2 @@
 # 1-TorsdagsOpg-2023
-
-1. TorsdagsOpgaver i 2023
+ Uge 2 - VARIABLES and CONTROL STRUCTURES i Processing
